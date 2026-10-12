@@ -17,7 +17,7 @@ This project is a personal learning exercise in **web development fundamentals**
 ---
 You can view the project live on GitHub Pages or directly from the repository here:
 
-[View the Project on GitHub](https://MahmoudSamy007.github.io/tutorial-project-yehiateck/)
+[View the Project on GitHub](https://msamyt.github.io/tutorial-project-yehiateck/)
 ---
 
 ## Why This Project?
